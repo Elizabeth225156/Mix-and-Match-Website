@@ -9,3 +9,12 @@ body {
     color: #6262eb;
     font-size: 25px;
 }
+
+.list{
+    text-align: left;
+    color: black;
+}
+
+p::first-letter{
+    color: green;
+}
